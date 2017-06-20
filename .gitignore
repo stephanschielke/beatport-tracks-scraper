@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+sample.json
+sample_urls.txt
+track_information.json
